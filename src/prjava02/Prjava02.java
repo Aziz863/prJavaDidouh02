@@ -19,6 +19,8 @@ public class Prjava02 {
     public static void main(String[] args) {
         System.out.println("Creació d'una branca del projecte prjavaDidouh02");
         System.out.println("Afegint més codi a la branca00 del projecte prjavaDidouh02");
+        System.out.println("Afegint codi a la branca01 del projecte prjavaDidouh02");
+
         try {
             InetAddress adreça = InetAddress.getLocalHost();
             String hostname = adreça.getHostName();
